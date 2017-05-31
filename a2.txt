@@ -1,2 +1,4 @@
 This is file a2.txt
+Adding more lines
 adding some lines
+adding more lines
